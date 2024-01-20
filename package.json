@@ -42,5 +42,10 @@
     "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-typescript2": "^0.35.0",
     "typescript": "^5.1.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabh-kayasth/react-img-pieces"
+  },
+  "homepage": "https://github.com/Saurabh-kayasth/react-img-pieces"
 }
