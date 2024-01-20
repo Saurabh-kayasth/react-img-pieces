@@ -12,7 +12,7 @@ import { ImagePiece } from 'react-img-pieces'
 <ImagePiece
     height={500}
     width={500}
-    pieces={200}
+    pieces={200} // should be an even number
     imgSrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SE9RDpKMsDAs37MK2YCCFDOYF4cAA9wmyjEPkXTRykekmRUcmYX4hqD7PQgBl8bdFt0&usqp=CAU"
     animationDirection="alternate"
     animationDuration="1s"
