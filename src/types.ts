@@ -3,6 +3,9 @@ export interface AnimationsComponentProps {
   height: number
   width: number
   pieces: number
+  animationIterationCount: string | number
+  animationDuration: string
+  animationDirection: 'normal' | 'reverse' | 'alternate' | 'alternate-reverse'
 }
 
 export interface PieceDimensions {

@@ -17,7 +17,10 @@ export const ImagePiece = (
     imgSrc,
     height: CONTAINER_HEIGHT,
     width: CONTAINER_WIDTH,
-    pieces: PIECES
+    pieces: PIECES,
+    animationDirection = 'normal',
+    animationDuration = '1s',
+    animationIterationCount = 'infinite'
   } = props
 
   function createNumberArray(): number[] {
@@ -49,9 +52,9 @@ export const ImagePiece = (
               style={{
                 width,
                 height,
-                animationIterationCount: 'infinite',
-                animationDuration: '1s',
-                animationDirection: 'alternate',
+                animationIterationCount,
+                animationDuration,
+                animationDirection,
                 backgroundImage: `url(${imgSrc})`,
                 ...calculatePieceStyles(
                   index,
