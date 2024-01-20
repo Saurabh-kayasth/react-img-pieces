@@ -20,6 +20,9 @@ import { ImagePiece } from 'react-img-pieces'
 />
 ```
 
+If you like this project, please consider buy me a coffee :)
+https://www.buymeacoffee.com/saurabhK100
+
 ## Features
  - Boilerplate setup for creating React **TypeScript** npm packages
  - Bundling using **Rollup**
