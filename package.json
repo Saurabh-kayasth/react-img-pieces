@@ -1,5 +1,5 @@
 {
-  "name": "react-ts-npm-pkg-boilerplate",
+  "name": "react-img-pieces",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
@@ -24,6 +24,7 @@
     "@rollup/plugin-babel": "^6.0.3",
     "@rollup/plugin-commonjs": "^25.0.2",
     "@rollup/plugin-node-resolve": "^15.1.0",
+    "@rollup/plugin-typescript": "^11.1.6",
     "@types/react": "^18.2.14",
     "@typescript-eslint/eslint-plugin": "^5.60.1",
     "@typescript-eslint/parser": "^5.60.1",
@@ -38,6 +39,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "rollup": "^3.26.0",
+    "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-typescript2": "^0.35.0",
     "typescript": "^5.1.6"
   }

@@ -1,6 +1,8 @@
-# React TypeScript NPM Package Boilerplate
+# React IMG PIECES
 
-A boilerplate project for creating React TypeScript npm packages with Rollup, ESLint, and Prettier.
+[![npm version](https://badge.fury.io/js/react-img-pieces.svg)](https://badge.fury.io/js/react-img-pieces)
+[![npm downloads](https://img.shields.io/npm/dw/react-img-pieces.svg?maxAge=2592000)](https://img.shields.io/npm/dm/react-img-pieces.svg?maxAge=2592000)
+
 
 ## Features
  - Boilerplate setup for creating React **TypeScript** npm packages
@@ -41,7 +43,4 @@ npm link ../
 
 Any changes you make to the package will be reflected immediately in the example project without the need to rebuild or reinstall the package.
 
-# License
-This project is licensed under the MIT License.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 

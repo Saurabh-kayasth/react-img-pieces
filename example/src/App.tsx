@@ -1,25 +1,17 @@
 import React from 'react'
-import logo from './logo.svg'
 import './App.css'
-import { Button } from 'react-ts-npm-pkg-boilerplate'
+import { ImagePiece } from 'react-img-pieces'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <Button text="je" onClick={() => {}} />
+        <ImagePiece
+          height={500}
+          width={500}
+          pieces={200}
+          imgSrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SE9RDpKMsDAs37MK2YCCFDOYF4cAA9wmyjEPkXTRykekmRUcmYX4hqD7PQgBl8bdFt0&usqp=CAU"
+        />
       </header>
     </div>
   )
