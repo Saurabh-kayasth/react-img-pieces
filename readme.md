@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/react-img-pieces.svg)](https://badge.fury.io/js/react-img-pieces)
 [![npm downloads](https://img.shields.io/npm/dw/react-img-pieces.svg?maxAge=2592000)](https://img.shields.io/npm/dm/react-img-pieces.svg?maxAge=2592000)
 
-![DEMO](https://github.com/Saurabh-kayasth/react-img-pieces/assets/30195666/9dbe2611-7b05-4662-ba5e-e917bc9234df)
+![DEMO](https://github.com/Saurabh-kayasth/react-img-pieces/assets/30195666/3b978d70-186e-42e2-8398-e69dd241924a)
 
 ## Usage
 ```js
